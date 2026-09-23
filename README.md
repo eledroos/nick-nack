@@ -1,2 +1,2 @@
-# led-display-releases
+# nick-nack-releases
 Signed application releases for LED Display devices. No device credentials required.
